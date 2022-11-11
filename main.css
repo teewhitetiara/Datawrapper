@@ -87,7 +87,11 @@ p{
   color: darkblack;
 
 
+.chart{ 
+  background-color:#fff;
+  max-width:800px;
 
+ }
 
 
 }
